@@ -43,3 +43,8 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# Data libraries
+xarray
+h5netcdf
+netcdf4
